@@ -1,0 +1,5 @@
+.env/
+documentation/ANN_Playground.pdf
+documentation/*.md
+
+
